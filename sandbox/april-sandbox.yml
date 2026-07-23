@@ -1,0 +1,20 @@
+generated: '2026-07-18'
+method: searched
+source: https://apriori-docs.gitbook.io/apriori-docs/aprmon/apriori-testnet-guide
+summary: >-
+  aPriori runs a public testnet environment on the Monad testnet where users can
+  trial MON staking and receive test aprMON before mainnet. A published MON faucet
+  guide covers acquiring test MON tokens. No live/test API-key separation exists
+  because aPriori is a smart-contract protocol, not a keyed REST API; the "sandbox"
+  is the Monad testnet deployment plus the faucet.
+network:
+  chain: Monad testnet
+  purpose: Trial MON staking / aprMON before Monad mainnet
+docs:
+  - name: aPriori Testnet Guide
+    url: https://apriori-docs.gitbook.io/apriori-docs/aprmon/apriori-testnet-guide
+  - name: aPriori MON Faucet Guide
+    url: https://apriori-docs.gitbook.io/apriori-docs/aprmon/apriori-mon-faucet-guide
+notes:
+  - Test-token values (faucet amounts, contract addresses) are not reproduced here;
+    consult the faucet/testnet guides above for current published values.

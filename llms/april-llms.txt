@@ -1,0 +1,25 @@
+---
+generated: '2026-07-18'
+method: searched
+source: https://apriori-docs.gitbook.io/apriori-docs/llms.txt
+---
+# aPriori Docs
+
+## aPriori Docs
+
+- [Introduction to aPriori](https://apriori-docs.gitbook.io/apriori-docs/introduction-to-apriori.md)
+- [What is Liquid Staking](https://apriori-docs.gitbook.io/apriori-docs/aprmon/what-is-liquid-staking.md)
+- [aprMON Basics](https://apriori-docs.gitbook.io/apriori-docs/aprmon/aprmon-basics.md)
+- [Staking Yield](https://apriori-docs.gitbook.io/apriori-docs/aprmon/aprmon-basics/staking-yield.md)
+- [aPriori Testnet Guide](https://apriori-docs.gitbook.io/apriori-docs/aprmon/apriori-testnet-guide.md)
+- [aPriori MON Faucet Guide](https://apriori-docs.gitbook.io/apriori-docs/aprmon/apriori-mon-faucet-guide.md)
+- [Smart Contract Integration](https://apriori-docs.gitbook.io/apriori-docs/aprmon/smart-contract-integration.md)
+- [Swapr](https://apriori-docs.gitbook.io/apriori-docs/aprmon/swapr.md)
+- [Go with the Flow Campaign Guide](https://apriori-docs.gitbook.io/apriori-docs/aprmon/swapr/go-with-the-flow-campaign-guide.md)
+- [Introducing $APR](https://apriori-docs.gitbook.io/apriori-docs/apr-token/introducing-apr.md)
+- [Claim on Monad Mainnet](https://apriori-docs.gitbook.io/apriori-docs/apr-token/claim-on-monad-mainnet.md)
+- [APR BOOST](https://apriori-docs.gitbook.io/apriori-docs/apr-token/apr-boost.md)
+- [What is APR Boost](https://apriori-docs.gitbook.io/apriori-docs/apr-token/apr-boost/what-is-apr-boost.md)
+- [Reward Mechanism](https://apriori-docs.gitbook.io/apriori-docs/apr-token/apr-boost/reward-mechanism.md)
+- [Roadmap](https://apriori-docs.gitbook.io/apriori-docs/growth/roadmap.md)
+- [FAQ](https://apriori-docs.gitbook.io/apriori-docs/faqs/faq.md)

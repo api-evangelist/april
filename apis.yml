@@ -1,8 +1,16 @@
 aid: april
 name: April
-description: 'April is a company surfaced as a portfolio company of pantera-capital, qed-investors and
-  added to the API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  April (aPriori, apr.io) is a MEV-powered liquid staking protocol on the Monad
+  blockchain. Users stake MON tokens through aPriori's self-custodial staking vault
+  and receive aprMON, a reward-bearing liquid staking token that accrues proof-of-stake
+  plus MEV yield and can be used across Monad DeFi while retaining full custody. The
+  protocol also operates Swapr (a DEX aggregator), an order-flow segmentation and MEV
+  infrastructure layer, and the $APR token with an APR Boost rewards program. aPriori
+  is documented on GitBook with an introduction, a Monad testnet guide, a MON faucet
+  guide, and a smart-contract integration reference; it is a smart-contract protocol
+  rather than a keyed REST API. Surfaced into the API Evangelist network as a crypto
+  portfolio lead.
 url: https://raw.githubusercontent.com/api-evangelist/april/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,18 +19,77 @@ x-backed-by:
 - qed-investors
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-identity-note: >-
+  apis.yml website apr.io resolves to aPriori (aprMON MEV liquid staking on Monad),
+  a crypto protocol. QED Investors' portfolio company named "April" is a separate
+  embedded-tax platform (getapril.com); the two were conflated during stub generation.
+  This repo is enriched for the apr.io / aPriori entity.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Crypto
+- Blockchain
+- DeFi
+- Liquid Staking
+- Monad
+- MEV
+- Staking
+- Web3
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+image: https://www.apr.io/opengraph-image.jpg
 common:
 - type: Website
   url: https://www.apr.io/
+- type: Documentation
+  url: https://aprlabs.gitbook.io/apriori-docs
+  name: aPriori Docs (GitBook)
+- type: GettingStarted
+  url: https://apriori-docs.gitbook.io/apriori-docs/introduction-to-apriori
+  name: Introduction to aPriori
+- type: Roadmap
+  url: https://apriori-docs.gitbook.io/apriori-docs/growth/roadmap
+  name: Roadmap
+- type: Blog
+  url: https://0xapr.substack.com/
+  name: aPriori Substack
+- type: SignUp
+  url: https://stake.apr.io/
+  name: aPriori Staking App
+- type: TermsOfService
+  url: https://www.notion.so/apriorimev/aPriori-Network-Inc-Terms-of-Use-7079e2f8b4a24e6daf52141090fb15ea
+- type: PrivacyPolicy
+  url: https://www.notion.so/apriorimev/aPriori-Network-Inc-Privacy-Policy-9792521a7be44bcb8fb8e850980c4343
+- type: Whitepaper
+  url: https://www.apr.io/whitepaper.pdf
+  name: MiCA White Paper aPriori (APR) v1.0
+- type: Careers
+  url: https://job-boards.greenhouse.io/apr
+- type: Sandbox
+  url: sandbox/april-sandbox.yml
+- type: LLMsTxt
+  url: llms/april-llms.txt
+- type: DomainSecurity
+  url: security/april-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

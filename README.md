@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-April is a company surfaced as a portfolio company of pantera-capital, qed-investors and added to the API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the enrichment pipeline.
+April (aPriori, apr.io) is a MEV-powered liquid staking protocol on the Monad blockchain. Users stake MON tokens through aPriori's self-custodial staking vault and receive aprMON, a reward-bearing liquid staking token that accrues proof-of-stake plus MEV yield and can be used across Monad DeFi while retaining full custody. The protocol also operates Swapr (a DEX aggregator), an order-flow segmentation and MEV infrastructure layer, and the $APR token with an APR Boost rewards program. aPriori is documented on GitBook with an introduction, a Monad testnet guide, a MON faucet guide, and a smart-contract integration reference; it is a smart-contract protocol rather than a keyed REST API. Surfaced into the API Evangelist network as a crypto portfolio lead.
 
-Backed by: pantera-capital, qed-investors — https://www.apr.io/
+**Areas:** Company · Cryptocurrency · Blockchain · DeFi · Liquid Staking · Monad · MEV · Staking · Web3
+
+## April on APIs.io
+
+Everything profiled for April is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/april/](https://apis.io/providers/april/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [April Domain Security](https://apis.io/security/april/april-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.apr.io/)
+- [Documentation](https://aprlabs.gitbook.io/apriori-docs)
+- [Getting started](https://apriori-docs.gitbook.io/apriori-docs/introduction-to-apriori)
+- [Sign up](https://stake.apr.io/)
+- [Blog](https://0xapr.substack.com/)
+- [Terms of service](https://www.notion.so/apriorimev/aPriori-Network-Inc-Terms-of-Use-7079e2f8b4a24e6daf52141090fb15ea)
+- [Privacy policy](https://www.notion.so/apriorimev/aPriori-Network-Inc-Privacy-Policy-9792521a7be44bcb8fb8e850980c4343)
+
+## API Evangelist rating
+
+**Kin Score 15.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/april/](https://apis.io/providers/april/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for April: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/april/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
